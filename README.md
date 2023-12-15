@@ -12,7 +12,7 @@ ___
 [![image](https://github.com/castroalves-gabi/castroalves-gabi/assets/117552601/bb8b2a10-ca2c-40ff-b57a-3b01d06f2148)](https://github.com/castroalves-gabi/BrechoLandingPage)
 
 #### Reading Log
-[![image](https://github.com/castroalves-gabi/cloneMaratonaApp/assets/117552601/77ae13ce-db04-46a1-95fc-15cbedc10c0c)](https://github.com/castroalves-gabi/cloneMaratonaApp)
+[![image](https://github.com/castroalves-gabi/cloneMaratonaApp/assets/117552601/4f64f57d-97ee-4af5-9044-134bc7f56820)](https://github.com/castroalves-gabi/cloneMaratonaApp)
 
 #### Pokedex
 [![image](https://github.com/castroalves-gabi/castroalves-gabi/assets/117552601/8ba30162-04ae-4ce6-bc77-33d6844eba19)](https://github.com/castroalves-gabi/js-pokedex)
