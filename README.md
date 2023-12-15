@@ -8,19 +8,24 @@ ___
 
 ### Some projects I've worked on:
 #### E-commerce Store
-![image](https://github.com/castroalves-gabi/castroalves-gabi/assets/117552601/63d17701-35e0-4ec1-94ef-fa3c02a6b887)
-![image](https://github.com/castroalves-gabi/castroalves-gabi/assets/117552601/bb8b2a10-ca2c-40ff-b57a-3b01d06f2148)
+[![image](https://github.com/castroalves-gabi/castroalves-gabi/assets/117552601/63d17701-35e0-4ec1-94ef-fa3c02a6b887)](https://github.com/castroalves-gabi/BrechoLandingPage)
+[![image](https://github.com/castroalves-gabi/castroalves-gabi/assets/117552601/bb8b2a10-ca2c-40ff-b57a-3b01d06f2148)](https://github.com/castroalves-gabi/BrechoLandingPage)
+
+#### Reading Log
+[![image](https://github.com/castroalves-gabi/cloneMaratonaApp/assets/117552601/77ae13ce-db04-46a1-95fc-15cbedc10c0c)](https://github.com/castroalves-gabi/cloneMaratonaApp)
 
 #### Pokedex
-![image](https://github.com/castroalves-gabi/castroalves-gabi/assets/117552601/8ba30162-04ae-4ce6-bc77-33d6844eba19)
+[![image](https://github.com/castroalves-gabi/castroalves-gabi/assets/117552601/8ba30162-04ae-4ce6-bc77-33d6844eba19)](https://github.com/castroalves-gabi/js-pokedex)
 
 #### Login Page
-![image](https://github.com/castroalves-gabi/castroalves-gabi/assets/117552601/086e0745-ca76-4567-bdc4-88a0445bec41)
+[![image](https://github.com/castroalves-gabi/castroalves-gabi/assets/117552601/086e0745-ca76-4567-bdc4-88a0445bec41)](https://github.com/castroalves-gabi/loginPageGlasmorphismCSS)
 
 #### Landing Page
-![image](https://github.com/castroalves-gabi/castroalves-gabi/assets/117552601/dfcbfcb7-beb6-40ee-9172-2188051e1436)
+[![image](https://github.com/castroalves-gabi/castroalves-gabi/assets/117552601/dfcbfcb7-beb6-40ee-9172-2188051e1436)](https://github.com/castroalves-gabi/hidratation-cream-water-drop)
 
-___
+**_N.B.:_**
+- _Click on the image to go to the repository_
+- _All projects were built using pure HTML, CSS, and JavaScript_
 
 ### Skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
