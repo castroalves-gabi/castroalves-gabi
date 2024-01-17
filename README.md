@@ -9,7 +9,7 @@ ___
 ### Some projects I've worked on:
 #### E-commerce Store
 [![image](https://github.com/castroalves-gabi/castroalves-gabi/assets/117552601/63d17701-35e0-4ec1-94ef-fa3c02a6b887)](https://github.com/castroalves-gabi/BrechoLandingPage)
-[![image](https://github.com/castroalves-gabi/castroalves-gabi/assets/117552601/bb8b2a10-ca2c-40ff-b57a-3b01d06f2148)](https://github.com/castroalves-gabi/BrechoLandingPage)
+![thrift-store-ammi-maju](https://github.com/castroalves-gabi/castroalves-gabi/assets/117552601/7aeb71cf-e3d5-4aba-837c-8d394bf6b702)
 
 #### Reading Log
 [![image](https://github.com/castroalves-gabi/cloneMaratonaApp/assets/117552601/4f64f57d-97ee-4af5-9044-134bc7f56820)](https://github.com/castroalves-gabi/cloneMaratonaApp)
