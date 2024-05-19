@@ -4,6 +4,15 @@ I'm passionate about machine learning and application development. This is just 
 <p align="center">
   <img src="https://media4.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif?cid=ecf05e47ti7fx50r0yj6mtbiycoyk7m7fybvr57g6vh0b9uu&ep=v1_gifs_search&rid=giphy.gif&ct=g" lt='Gif The Office' style="width:300px;"
 
+
+<br>
+<br>
+<br>
+
+### Based on my repositories:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castroalves-gabi&size_weight=0.5&count_weight=0.5)
+
+
 ___
 
 ### Some projects I've worked on:
